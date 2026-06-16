@@ -1,6 +1,7 @@
 # No Video Demostration due data privacy
 
 # 📘 Offline ODL Canvas System (Student Project)
+<br>
 A Final Year Project (FYP) developed for educational purposes. This is a prototype learning management system designed for offline use and academic demonstration only.
 
 # 📋 System Features
@@ -26,23 +27,17 @@ A Final Year Project (FYP) developed for educational purposes. This is a prototy
 
 # 🚀 How to Run This Project
 1. 📌 Prerequisites
-XAMPP (Apache + MySQL + PHP)
-Web browser (Chrome / Edge / Firefox)
+- XAMPP (Apache + MySQL + PHP)
+- Web browser (Chrome / Edge / Firefox)
 
 2. 🛠 Setup Instructions
-a. Start Apache and MySQL in XAMPP
-<br>
-b. Place the project folder inside:
-<br>
-c. C:\xampp\htdocs\
-<br>
-d. Create a new database in phpMyAdmin name as offline_odl_canvas_system
-<br>
-f. Create the required database tables manually using the project’s PHP structure (or your own schema design)
-<br>
-g. Open the system in browser:
-<br>
-h. http://localhost/offline_odl_canvas_system/
+- Start Apache and MySQL in XAMPP
+- Place the project folder inside:
+- C:\xampp\htdocs\
+- Create a new database in phpMyAdmin name as offline_odl_canvas_system
+- Create the required database tables manually using the project’s PHP structure (or your own schema design)
+- Open the system in browser:
+- http://localhost/offline_odl_canvas_system/
 
 # 🎯 Project Notes
 - Designed for offline academic demonstration
