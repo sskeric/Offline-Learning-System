@@ -39,7 +39,7 @@ A Final Year Project (FYP) developed for educational purposes. This is a prototy
 - Open the system in browser:
 - http://localhost/offline_odl_canvas_system/
 
-# 🎯 Project Notes
+# 🎯 Project Outcome
 - Designed for offline academic demonstration
 - Supports basic CRUD operations (Create, Read, Update, Delete)
 - Includes filtering, search, and file management features
