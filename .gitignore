@@ -1,0 +1,23 @@
+# Uploaded files (may contain sensitive data)
+uploads/
+guideline/
+
+# Excel exports and temporary files
+*.xlsx
+*.xls
+!demo_template.xlsx
+
+# Database files
+*.sql
+!offline_odl_canvas_system.sql
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
