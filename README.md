@@ -1,6 +1,6 @@
 # No Video Demostration due data privacy
 
-# 📘 Offline ODL Canvas System (Student Project)
+# 📘 Offline Learning System (Student Project)
 <br>
 A Final Year Project (FYP) developed for educational purposes. This is a prototype learning management system designed for offline use and academic demonstration only.
 
